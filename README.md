@@ -1,4 +1,4 @@
-![logo](https://github.com/Tushar-Gupta0506/Tushar-Gupta05006/blob/main/Untitled%20design.png)
+![logo](https://github.com/Tushar-Gupta0506/Tushar-Gupta0506/blob/main/Untitled%20design%20(1).png)
 <h1 align="center">Hi 👋, I'm Tushar Gupta</h1>
 <h3 align="center">Aspiring Business Analyst / Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://sithcomputers.com/wp-content/uploads/2023/03/Data-Science.gif">
