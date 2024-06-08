@@ -4,7 +4,7 @@
 </p>
 <!-- Introduction -->
 <h1 align="center">Hi 👋, I'm Tushar Gupta</h1>
-<h2 align="center">Business Analyst / Data Analyst</h2>
+<h3 align="center">Business Analyst / Data Analyst</h3>
 <p align="center">
     <img align="right" alt="Coding" width="400" src="https://sithcomputers.com/wp-content/uploads/2023/03/Data-Science.gif">
 </p>
