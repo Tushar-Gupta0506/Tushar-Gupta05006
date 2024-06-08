@@ -42,16 +42,3 @@
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="tableau" width="40" height="40"/>
     </a>
 </p>
-
-<!-- GitHub Stats -->
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tushar-gupta0506&show_icons=true&locale=en&layout=compact" alt="tushar-gupta0506" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=tushar-gupta0506&show_icons=true&locale=en" alt="tushar-gupta0506" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=tushar-gupta0506&" alt="tushar-gupta0506" />
-</p>
