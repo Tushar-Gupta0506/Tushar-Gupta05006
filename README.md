@@ -7,6 +7,10 @@
 <h1 align="center">Hi there! 👋 I'm Tushar Gupta</h1>
 <h3 align="center">Business Analyst / Data Analyst</h3>
 
+<p align="center">
+    <img align="right" alt="Coding" width="400" src="https://sithcomputers.com/wp-content/uploads/2023/03/Data-Science.gif">
+</p>
+
 <!-- Profile Views -->
 <p align="left"> 
     <img src="https://komarev.com/ghpvc/?username=tushar-gupta0506&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/> 
