@@ -52,7 +52,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 10px;"/>
     </a>
     <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="90" height="40" style="margin-right: 10px;"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="Tableau" width="100" height="40" style="margin-right: 10px;"/>
     </a>
         <a href="https://daxstudio.org/" target="_blank" rel="noreferrer ">
         <img src="https://cdn.sqlbi.com/wp-content/uploads/daxstudio-logo.svg" alt="DAX Studio" width="40" height="40" style="margin-right: 10px;"/>
